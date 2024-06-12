@@ -5,9 +5,9 @@ How to create a rollup with Airchain and Avail DA /Eigen DA
 **Note:** Save `/root/.tracks` folder in your local computer in the end <br>
 
 ## System Requirements (Minimum-Recommended)
-| Ram | cpu     | disk                      |
+| Ram | CPU     | Disk                      |
 | :-------- | :------- | :-------------------------------- |
-| `2-4 GB`      | `2-4 Core` | `50-200 GB SSD` |
+| `2-4 GB`      | `2-4 Core` | `50-200 GB ` |
 
 <h1 align="center">Steps</h1>
 
